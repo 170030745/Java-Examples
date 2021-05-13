@@ -8,6 +8,7 @@ String empname="ABC";
 double empsal=50000.00d;
 float empheight=5.4f;
 short empexperience=3;
+char empinitial='M';
 }
 }
 
